@@ -1,4 +1,4 @@
-#  android phone အသုံးပြုပြီး service accounts လုပ်နည်း
+#  How to make service accounts using android phone
 ## Guide:
 - YouTube Link: [Create Service Accounts Tutorial](https://youtu.be/qvPuFFrBD2c)
 ------
